@@ -2,6 +2,8 @@
 
 This is a Next.js application that includes a chat interface, API routes, and supporting components For PERSONA BASED AI RAG CHATBOT.
 
+Project Live at - [Deployemnt link](https://menti-persona.vercel.app/)
+
 ## 📂 Project Structure
 
 ```
