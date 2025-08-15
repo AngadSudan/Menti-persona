@@ -272,7 +272,7 @@ function Chat() {
           ))}
 
           {isTyping && (
-            <div className="flex justify-end py-4 px-4">
+            <div className="flex justify-start py-4 px-4">
               <div className="flex items-center gap-4 max-w-[85%]">
                 <div className="bg-white rounded-2xl px-6 py-4 shadow-lg border border-amber-100 rounded-tr-sm">
                   <div className="flex items-center gap-2 text-gray-500">
