@@ -100,12 +100,12 @@ function MessageBox({ role, message, profile }: ChatMessage) {
   return (
     <div
       className={`flex w-full py-6 px-4 ${
-        isUser ? "justify-start" : "justify-end"
+        isUser ? "justify-end" : "justify-start"
       }`}
     >
       <div
         className={`flex max-w-[85%] gap-4 ${
-          isUser ? "flex-row" : "flex-row-reverse"
+          isUser ? "flex-row-reverse" : "flex-row"
         }`}
       >
         <div className="relative flex-shrink-0">
